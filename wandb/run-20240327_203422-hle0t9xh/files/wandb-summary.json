@@ -1,0 +1,1 @@
+{"epoch": 99, "train_loss": 0.1888619363307953, "valid_loss": 0.18430182337760925, "pascal_voc_metric_by_distance": 0.880175820761604, "BBloss": 0.03842237591743469, "focal_loss": 0.14587943255901337, "AP-mitotic figure": 0.880175820761604, "_timestamp": 1711593687.5981662, "_runtime": 7625.43540930748, "_step": 99, "_wandb": {"runtime": 7625}}

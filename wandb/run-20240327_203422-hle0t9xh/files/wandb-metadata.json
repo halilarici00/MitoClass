@@ -1,0 +1,47 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.10.11",
+    "heartbeatAt": "2024-03-28T00:34:23.454993",
+    "startedAt": "2024-03-28T00:34:22.131760",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\RPI\\PycharmProjects\\pythonProject\\main.py",
+    "codePathLocal": "main.py",
+    "codePath": "main.py",
+    "host": "RPI141685",
+    "username": "RPI",
+    "executable": "C:\\Users\\RPI\\PycharmProjects\\pythonProject\\.venv\\Scripts\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 1200.0,
+        "min": 0.0,
+        "max": 3501.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1200.0,
+            "min": 0.0,
+            "max": 3501.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 475.7979049682617,
+            "used": 279.15451431274414
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 2060",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 2060",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 31.703861236572266
+    }
+}
