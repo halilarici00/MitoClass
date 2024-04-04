@@ -1,5 +1,7 @@
 ![g206](https://github.com/DeepMicroscopy/MIDOGpp/assets/10051592/934e8017-2c9d-4a2f-9314-885b1aa3a10b)
 
+This is a class project based on the MIDOG++. Below is the read me of original MIDOG++
+
 # MIDOG++: A Comprehensive Multi-Domain Dataset for Mitotic Figure Detection
 
 > The prognostic value of mitotic figures in tumor tissue is well-established for many tumor types and automating this task is of high research interest. 
